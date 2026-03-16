@@ -7,14 +7,14 @@ Software engineer with 6+ years of experience working in AWS environments and da
 - 6+ years of AWS experience
 - Certified AWS Cloud Practitioner (2025)
 - Industry experience with data validation at Finra
-- HuggingFace Models: https://huggingface.co/DanielLevenstein
-- Kaggle Data Notebooks: https://www.kaggle.com/daniellevenstein
+- HuggingFace Models: 🔗 https://huggingface.co/DanielLevenstein
+- Kaggle Data Notebooks: 🔗 https://www.kaggle.com/daniellevenstein
 
 ## Featured Projects:
 
 ### 🪖 Helmet Detection Model With Streamlit Demo
 
-GitHub: 🔗 https://github.com/DanielLevenstein/HelmNet_ImageProcessing_UT_ML_Project6
+GitHub: 🔗 https://github.com/DanielLevenstein/HelmNet_ImageProcessing_UT_ML_Project6<br>
 Live Demo: 🔗 https://huggingface.co/spaces/DanielLevenstein/Helmet_Image_Classification
 
 Overview:
