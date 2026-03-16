@@ -1,10 +1,10 @@
 # Data Engineer & Cloud Developer
 
-I am a software developer who has been studying machine learning and AI since 2025. I have 6 years of experience working in an AWS environment and I have 3 years of experience in data validation and machine learning.
+Software engineer with 6+ years of experience working in AWS environments and data systems. Recently focused on machine learning and data analysis projects including clustering, forecasting, and business analytics.
 
 ## 🛠 Deployment Experience
 
-- 6+ years of software experience
+- 6+ years of AWS experience
 - Certified AWS Cloud Practitioner (2025)
 - Industry experience with data validation at Finra
 - HuggingFace Models: https://huggingface.co/DanielLevenstein
