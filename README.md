@@ -1,6 +1,6 @@
 # Data Engineer & Cloud Developer
 
-Software engineer with 6+ years of experience working in AWS environments and data systems. Recently focused on machine learning and data analysis projects including clustering, forecasting, and business analytics.
+Software engineer with 6+ years of experience working in AWS environments and data systems. Recently focused on machine learning and data analysis projects, including clustering, and business analytics.
 
 ## 🛠 Deployment Experience
 
@@ -72,26 +72,6 @@ Analyzed 1,898-row food delivery dataset to evaluate cuisine performance and cus
 ![Discount Cost vs Population Reach](charts/Discount_Cost_vs_Total_Reach.png)
 
 *Figure: Discount cost vs total reach with value per customer analysis.*
-
----
-
-### 💰 Product Profitability Study
-
-GitHub: 🔗 https://github.com/DanielLevenstein/Product_Profitability_Study
-
-**Overview:**
-Modeled pricing strategy and material loss optimization for an Etsy-based product business.
-
-**Key Contributions:**
-
-- Generated synthetic product dataset based on real material costs
-- Modeled material loss as a function of color complexity
-- Compared pricing structures to determine break-even thresholds
-- Analyzed profitability of multicolor designs
-
-![Material Loss vs Num Colors](charts/Etsy_profitability_charts.png)
-
-*Figure: Material waste modeled as a function of colors per design.*
 
 ---
 
