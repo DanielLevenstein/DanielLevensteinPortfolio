@@ -23,14 +23,7 @@ HelmNet is a convolutional neural network designed to classify whether a constru
 
 The deployed demo runs on Hugging Face Spaces and provides an interactive interface for testing the model with arbitrary images.
 
-#### Key Contributions:
-
-* Developed a convolutional neural network for binary helmet classification using TensorFlow and Keras.
-* Implemented an image preprocessing pipeline including resizing, normalization, and array conversion to prepare images for inference.
-* Built an interactive Streamlit web application allowing users to upload images and view prediction results.
-* Deployed the application to Hugging Face Spaces, integrating model hosting with a live demo interface.
-* Evaluated the model using random samples from the dataset and analyzed model limitations and dataset bias.
-* Documented the project workflow, model architecture, and deployment process in a reproducible repository.
+Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace Spaces
 
 ---
 
