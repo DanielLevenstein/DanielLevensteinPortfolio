@@ -10,6 +10,9 @@ Software engineer with 6+ years of experience working in AWS environments and da
 - HuggingFace Models: 🔗 https://huggingface.co/DanielLevenstein
 - Kaggle Data Notebooks: 🔗 https://www.kaggle.com/daniellevenstein
 
+
+---
+
 ## Featured Projects:
 
 ### 🪖 Helmet Detection Model - Data-Centric ML Case Study
@@ -31,6 +34,27 @@ Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace
 
 ---
 
+### 🍕 FoodHub – Delivery Data Analysis
+
+GitHub: 🔗 https://github.com/DanielLevenstein/FoodHub_UT_ML_Project1
+
+**Overview:**
+Analyzed 1,898-row food delivery dataset to evaluate cuisine performance and customer loyalty metrics.
+
+**Key Contributions:**
+
+- Cleaned dataset and imputed missing ratings using dataset mean
+- Identified top-rated restaurants by cuisine
+- Designed and evaluated discount strategy metrics
+- Calculated discount cost vs. total customer reach
+
+![Discount Cost vs Population Reach](charts/Discount_Cost_vs_Total_Reach.png)
+
+*Figure: Discount cost vs total reach with value per customer analysis.*
+
+---
+
+
 ### 💪 Stress vs Physical Activity – Kaggle Data Analysis
 
 GitHub: 🔗 https://github.com/DanielLevenstein/stress_vs_physical_activity_data_exploration<br>
@@ -49,26 +73,6 @@ Analyzed relationships between stress levels and physical activity using real-wo
 ![Clustering Overview](charts/Stress_Level_by_Cluster_Side_by_Side.png)
 
 *Figure: K-means clustering reveals distinct population-level groups based on total activity and stress.*
-
----
-
-### 🍕 FoodHub – Delivery Data Analysis
-
-GitHub: 🔗 https://github.com/DanielLevenstein/FoodHub_UT_ML_Project1
-
-**Overview:**
-Analyzed 1,898-row food delivery dataset to evaluate cuisine performance and customer loyalty metrics.
-
-**Key Contributions:**
-
-- Cleaned dataset and imputed missing ratings using dataset mean
-- Identified top-rated restaurants by cuisine
-- Designed and evaluated discount strategy metrics
-- Calculated discount cost vs. total customer reach
-
-![Discount Cost vs Population Reach](charts/Discount_Cost_vs_Total_Reach.png)
-
-*Figure: Discount cost vs total reach with value per customer analysis.*
 
 ---
 
